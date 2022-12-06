@@ -13,7 +13,7 @@
     "symfony/http-kernel": "~2.7|~3.0|~4.0",
     "symfony/framework-bundle": "~2.7|~3.0|~4.0",
     "symfony/yaml": "~2.7|~3.0|~4.0",
-    "swagger-api/swagger-ui": "^3.0|~4.0"
+    "swagger-api/swagger-ui": "^3.0"
   },
   "require-dev": {
     "symfony/browser-kit": "~2.7|~3.0|~4.0",
